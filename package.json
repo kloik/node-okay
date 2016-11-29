@@ -1,7 +1,21 @@
 {
-	"name": "dingo",
-	"description": "Just some petty issues",
-	"dependencies": [
-		"express": 4.14.0
-	]
+  "name": "node-okay",
+  "version": "1.0.0",
+  "description": "Okay fellas this is description",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloik/node-okay.git"
+  },
+  "author": "kloik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kloik/node-okay/issues"
+  },
+  "homepage": "https://github.com/kloik/node-okay#readme"
 }
