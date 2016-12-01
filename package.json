@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Okay fellas this is description",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "~4.14.0",
+    "pug": "~2.0.0-beta6"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
